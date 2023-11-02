@@ -2,7 +2,7 @@
   "name": "app-dog",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://raimundo-moraes.github.io/app-dog",
+  "homepage": "https://raimundo-moraes.github.io/react-dog",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
